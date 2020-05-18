@@ -8,4 +8,4 @@ Allan Soares Duarte is a senior software engineer with more than 9 years of work
 
 Allan is also known for his dedication to innovating and your hands-on experience about scalability, helping several different startups in the past 5 years on these subjects.
 
-In his free time, he dedicates himself to the art of Muay Thai, his girlfriend, and his two beloved dogs. 
+In his free time, he dedicates himself to the art of Muay Thai and his two beloved dogs.
