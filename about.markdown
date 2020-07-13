@@ -14,7 +14,7 @@ I also write regularly on software architecture topics.
 
 I sincerely hope you find useful pieces of information on my Dev.to and Medium channel both interesting and useful. If you have any questions or would like to chat, feel free to contact me via one of the methods outlined below.
 
-Allan is also known for his dedication to innovating and your hands-on experience about scalability, helping several different startups in the past 5 years on these subjects.
+Allan is also known for his dedication to innovating and your hands-on experience about scalability, helping several different startups in the past 5 years.
 
 ## Professional History
 
