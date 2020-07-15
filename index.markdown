@@ -19,7 +19,7 @@ layout: page
 
 <div class="card">
     <div class="card-header">
-        <h2>Exercism Elixir Mentor</h2>
+        <h2>Elixir's mentor at Exercism</h2>
     </div>
     <div class="card-content">
         <a href="https://exercism.io/profiles/allansduarte">
