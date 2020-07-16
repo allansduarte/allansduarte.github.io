@@ -14,8 +14,6 @@ I also write regularly on software architecture topics.
 
 I sincerely hope you find useful pieces of information on my Dev.to and Medium channel both interesting and useful. If you have any questions or would like to chat, feel free to contact me via one of the methods outlined below.
 
-Allan is also known for his dedication to innovating and your hands-on experience about scalability, helping several different startups in the past 5 years.
-
 ## Professional History
 
 I started my career as a software engineer at 17 years old where I got some freelancer tasks. Afterward, I took a software engineering position at A2C, a Brazillian based company which BriviaDez later purchased. I stood out as a developer when I was academic being national champion by the development of an android application that helped more than 7 thousands people that suffers migraine when I finally start to work with innovation projects. After some years I moved to São Paulo as a Senior Software Engineer working at Ateliware in an innovation laboratory before ending up at my current position as an Application Architect.
