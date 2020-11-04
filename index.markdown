@@ -4,7 +4,7 @@ layout: page
 
 <div class="card">
     <div class="card-header">
-        <h2>A passionate developer working on high-quality code and evolutionary architectures.</h2>
+        <h2>A pragmatic developer working on high-quality code and evolutionary architectures.</h2>
     </div>
     <div class="card-content">
         <h3>Access my articles by clicking on the icons below</h3>
