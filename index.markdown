@@ -2,7 +2,19 @@
 layout: page
 ---
 
+    {% for post in site.posts %}
 <div class="card">
+    <div class="card-header">
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    </div>
+    <div class="card-content">
+        <h3>{{ post.excerpt }}</h3>
+        <h4><a href="{{ post.url }}">Read more</a></h4>
+    </div>
+</div>
+  {% endfor %}
+
+<!-- <div class="card">
     <div class="card-header">
         <h2>A pragmatic developer working on high-quality code and evolutionary architectures.</h2>
     </div>
@@ -38,4 +50,4 @@ layout: page
     <div class="card-content">
         <codersrank-widget username="allansduarte"></codersrank-widget>
     </div>
-</div>
+</div> -->
